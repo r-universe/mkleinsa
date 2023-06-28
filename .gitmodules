@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hlt"]
 	path = hlt
 	url = https://github.com/mkleinsa/hlt
-	shallow = true
-	registered = true
 [submodule "INTRIGUE"]
 	path = INTRIGUE
 	url = https://github.com/cran/INTRIGUE
-	shallow = true
-	registered = true
 [submodule "StackImpute"]
 	path = StackImpute
 	url = https://github.com/cran/StackImpute
-	shallow = true
-	registered = true

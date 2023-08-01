@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "hlt"]
-	path = hlt
-	url = https://github.com/mkleinsa/hlt
 [submodule "INTRIGUE"]
 	path = INTRIGUE
 	url = https://github.com/cran/INTRIGUE
 [submodule "StackImpute"]
 	path = StackImpute
 	url = https://github.com/cran/StackImpute
+[submodule "hlt"]
+	path = hlt
+	url = https://github.com/mkleinsa/hlt

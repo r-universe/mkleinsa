@@ -10,4 +10,4 @@
 	url = https://github.com/cran/StackImpute
 [submodule "hlt"]
 	path = hlt
-	url = https://github.com/mkleinsa/hlt
+	url = https://github.com/cran/hlt

@@ -1,0 +1,10 @@
+{
+  "id": 41954390,
+  "created_at": "2023-09-18T22:45:44.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["xbda"]
+}
